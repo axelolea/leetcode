@@ -11,6 +11,7 @@
     <modules>
         <module>WordSearch</module>
         <module>TwoSum</module>
+        <module>AddTwoNumbers</module>
     </modules>
 
     <properties>
