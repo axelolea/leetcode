@@ -12,6 +12,7 @@
         <module>WordSearch</module>
         <module>TwoSum</module>
         <module>AddTwoNumbers</module>
+        <module>CountingWordsWithaGivenPrefix</module>
     </modules>
 
     <properties>
