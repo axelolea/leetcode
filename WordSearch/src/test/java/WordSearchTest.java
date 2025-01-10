@@ -3,11 +3,6 @@ import com.axelolea.WordSearch;
 import junit.framework.Assert;
 import org.junit.Test;
 
-/**
- *
- * @author AxelOlea
- */
-
 
 public class WordSearchTest {
     
@@ -51,9 +46,9 @@ public class WordSearchTest {
         };
         
         String word = "ABCB";
-        boolean result = WordSearch.exist(board, word);
+
         Assert.assertFalse(
-                result
+                WordSearch.exist(board, word)
         );
     }
 }
