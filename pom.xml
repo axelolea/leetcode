@@ -13,6 +13,7 @@
         <module>TwoSum</module>
         <module>AddTwoNumbers</module>
         <module>CountingWordsWithaGivenPrefix</module>
+        <module>MaximumScoreAfterSplittingAString</module>
     </modules>
 
     <properties>
