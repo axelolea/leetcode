@@ -14,6 +14,7 @@
         <module>AddTwoNumbers</module>
         <module>CountingWordsWithaGivenPrefix</module>
         <module>MaximumScoreAfterSplittingAString</module>
+        <module>WordSubsets</module>
     </modules>
 
     <properties>
